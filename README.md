@@ -24,8 +24,8 @@ I am passionate about creating, learning, and turning ideas into reality. I enjo
 
 <!--Contact Section--> 
 
-<h2 align="left">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="left">
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
  <a href="https://www.linkedin.com/in/diego-villareal/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -42,9 +42,9 @@ I am passionate about creating, learning, and turning ideas into reality. I enjo
 <br /><br />
 
 <!--Languages and Tools Section-->       
-<h2 align="left">💻 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">💻 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,py,azure,cpp,discord,docker,figma,github,git,js,mongodb,mysql,postgres,r,supabase,ts,vscode" />
   </a>
