@@ -20,9 +20,6 @@ I am passionate about creating, learning, and turning ideas into reality. I enjo
 🤖 Strong interest in IA and real-world applications 
 </pre>
 <!--End Intro-->
-<br />
-
-<!--Contact Section--> 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
