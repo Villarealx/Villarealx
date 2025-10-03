@@ -36,8 +36,6 @@ I am passionate about creating, learning, and turning ideas into reality. I enjo
 </a>
 </div>
 
-<br /><br />
-
 <!--Languages and Tools Section-->       
 <h2 align="center">💻 Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 
@@ -47,7 +45,6 @@ I am passionate about creating, learning, and turning ideas into reality. I enjo
   </a>
 </p>
 
-<br />
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
