@@ -2,7 +2,7 @@
 Hi, I'm Diego!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  
-<br />
+
 <img align="right" alt="Coding" width="300" src="https://i.imgur.com/GW2pNoN.gif">
 
 <h2 align="left">🔥 About Me </h2>
