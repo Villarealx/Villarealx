@@ -15,7 +15,7 @@ I am passionate about creating, learning, and turning ideas into reality. I enjo
 <pre>
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📝 I have a strong interest in Data Science
-🛠️ Main languages: Python, JavaScript
+🛠️ Main languages: Python
 🌱 Learning about efficient designs for scalable systems
 🤖 Strong interest in IA and real-world applications 
 </pre>
