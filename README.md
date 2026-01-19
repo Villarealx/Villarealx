@@ -41,7 +41,7 @@ I am passionate about creating, learning, and turning ideas into reality. I enjo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,py,azure,cpp,discord,docker,figma,github,git,js,mongodb,mysql,postgres,r,supabase,ts,vscode" />
+    <img src="https://skillicons.dev/icons?i=anaconda,py,azure,discord,docker,figma,github,git,js,mongodb,mysql,postgres,supabase" />
   </a>
 </p>
 
