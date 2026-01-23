@@ -6,18 +6,17 @@ Hi, I'm Diego!
 <img align="right" alt="Coding" width="300" src="https://i.imgur.com/GW2pNoN.gif">
 
 <h2 align="left">🔥 About Me </h2>
-I am passionate about creating, learning, and turning ideas into reality. I enjoy moving between front-end and back-end development, exploring how automation, cloud technologies, and Artificial Intelligence can transform projects into more efficient and innovative experiences. I fully engage in everything I do, always striving to leave a meaningful and positive impact. 
+I enjoy learning and building things step by step, turning ideas into practical solutions. I’m exploring data analysis, automation, and cloud tools, and gradually improving my skills with technologies like SQL, Python, Power BI, n8n, and Azure. 
 
 <br />
 
 <h2 align="left">🔧 Key Points</h2> 
 
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📝 I have a strong interest in Data Science
-🛠️ Main languages: Python
-🌱 Learning about efficient designs for scalable systems
-🤖 Strong interest in IA and real-world applications 
+💻 Self-taught developer focused on learning by building
+🛠️ Mostly working with Python and data-related tools
+🌱 Exploring system design, automation, and scalability
+🤖 Interested in applying AI to real-world problems
 </pre>
 <!--End Intro-->
 
@@ -41,7 +40,7 @@ I am passionate about creating, learning, and turning ideas into reality. I enjo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,py,azure,discord,docker,figma,github,git,js,mongodb,mysql,postgres,supabase" />
+    <img src="https://skillicons.dev/icons?i=py,azure,discord,docker,figma,github,mysql,postgres,supabase" />
   </a>
 </p>
 
